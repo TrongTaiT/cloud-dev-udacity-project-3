@@ -1,0 +1,47 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+*~
+*.sw[mnpcod]
+*.log
+*.tmp
+*.tmp.*
+log.txt
+*.sublime-project
+*.sublime-workspace
+.vscode/
+npm-debug.log*
+
+.idea/
+.ionic/
+.sourcemaps/
+.sass-cache/
+.tmp/
+.versions/
+coverage/
+www/
+node_modules/
+tmp/
+temp/
+platforms/
+plugins/
+plugins/android.json
+plugins/ios.json
+$RECYCLE.BIN/
+postgres_dev/
+logfile
+
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+node_modules
+venv/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+set_env.sh
+
+
+
+W2RlZmF1bHRdDQphd3NfYWNjZXNzX2tleV9pZCA9IEFTSUFYWENUS0lRT0pIVkhDWU80DQphd3Nfc2VjcmV0X2FjY2Vzc19rZXkgPSA5SmlHS2hNVE0xcG9PcGJQeEFCSXpSdnhUM0RSbDlFY0NXYU5sRk1CDQpBV1NfU0VTU0lPTl9UT0tFTiA9IEZ3b0daWEl2WVhkekVKdi8vLy8vLy8vLy93RWFEQ2Ftd0c5eTdCWWNRbnNaV0NMVkFhNmZIU1NLeGtxZ2dMTUxFS1BQYS9maFhJOEdjQ1VFM2dkYXZtMDROOFAwUS9DUzl5cWcrY1FYSmUxZ1hWUk1kMTByeTMwTW5maFRBbnc5UnFEbW9JdGRYcE1nbkdQbEsvYWdLeW03SzJqaUs2Qjh1Ui9UckE5WUZzdklxbXF1VDlqS2pqVWxuWWtOQ1ovUkx6OEY4N010ZFkyODJmYjlYMzhSai9QUmZUejBQemt1WHpkbUdLQTVpZHFYTUhGaUg1eU02Ulh5dkZPdnF6Vjc2aVVYVWZUQ2hkVk9hNENTcXdxMkcxeEg5TWYzRkZWdE9zKzNyL2ovOU03ckhma01QVmJjb2s1ZjYzTE5uSndIL0NqZjNmQnhDdUVLS1NpdnlwK3JCakl0MVZIVFV1cW9rdU9ETE9XcGRFZkRyY0pTS3VBZUNQSlloeXJDQlYzVUY1RytaUlJYTVlONWFkWDg0MkR0
